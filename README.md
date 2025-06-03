@@ -9,4 +9,3 @@ I have worked in real life scenarios such as building **Predictive Models** for 
 ### Monkeypox (MPOX)
 ### Market Analysis - Customer Segmentation - RFM
 ### Social Media Analysis
-### LEGO Education of Greece- O3 Competition
