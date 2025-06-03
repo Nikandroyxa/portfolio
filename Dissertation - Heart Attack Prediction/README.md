@@ -7,6 +7,10 @@ Dissertation Mark for the code: 80%
 ### Project Overview
 
 This project aimed to develop a Machine Learning model to predict heart attacks according Precision, Accuracy and AUC score and determine the top 10 features which influencing the target column.
+We used two datasets for the experiments the "Heart Attack Risk Prediction" dataset, which includes 
+8,763 synthetic patient records and 26 variables, and the "Heart Disease Health Indicators" dataset, which 
+at first contained 253,661 synthetic instances with 22 features, and later was reduced to 50,000 instances 
+for the flexibility.
 
 ### Process
 
