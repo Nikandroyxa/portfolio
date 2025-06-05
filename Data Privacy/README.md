@@ -1,4 +1,4 @@
-### ** Data Privacy Projects **
+### **Data Privacy Projects**
 
 This repository showcases two self-initiated data privacy projects inspired by real-world use cases from companies like Datavant. Both projects demonstrate hands-on application of privacy-preserving techniques, data anonymization, and population-level risk analysis using real datasets.
 
