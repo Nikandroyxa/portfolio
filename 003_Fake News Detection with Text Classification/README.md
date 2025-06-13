@@ -6,7 +6,6 @@ This project aims to build a binary text classification model to distinguish bet
 
 The project was executed in two main phases: establishing a strong baseline model and then implementing targeted improvements to enhance performance.
 
----
 
 ### **Process**
 
