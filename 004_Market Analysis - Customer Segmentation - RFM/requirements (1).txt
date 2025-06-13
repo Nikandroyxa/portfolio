@@ -1,0 +1,9 @@
+# pandas==2.2.2
+# matplotlib==3.8.4
+# seaborn==0.13.2
+# mlxtend==0.23.1
+# numpy==1.26.4
+# scipy==1.13.0
+# scikit-learn==1.4.2
+# kneed==0.8.5
+# squarify==0.4.3
