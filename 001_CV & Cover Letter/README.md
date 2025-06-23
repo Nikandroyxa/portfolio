@@ -1,16 +1,16 @@
 # Summary
 **Dedicated**, **Motivated** & **Ambitious** 
 
-I developed a strong foundation in Data Science and Engineering through an MSc in Data Science & Analytics where I achieved distinction (Top 10% of my class) from the University of Westminster and further enhanced my expertise with a Data Analysis certification from IBM. 
+I developed a strong foundation in **Data Science** & **Engineering** through an **MSc in Data Science & Analytics** where I achieved **Distinction** (Top 10% of my class) from the **University of Westminster** and further enhanced my expertise with a **Data Analysis** certification from IBM. 
 Eager to apply my skills and tackle bigger challenges in the dynamic and prestigious environment.
 
-• Graduated in the top 10% of my class with distinction in an MSc in Data Science & Analytics 
+• Graduated **6th out of 120** students in a **MSc in data Science & Analytics** from the **University of Westminster** in London
 
-• Developed strong knowledge in programming languages & data tools such as Python, SQL, R, Excel, Tableau & Power Bi 
+• Developed strong knowledge in programming languages & data tools such as **Python**, **SQL**, **R**, **Excel**, **Tableau** & **Power Bi** 
 
-• Proficient in Machine Learning, Data Modelling, Preprocessing, Cleansing, Warehousing & Visualization 
+• Proficient in **Machine Learning**, **Data Modelling**, **Preprocessing**, **Cleansing**, **Warehousing** & **Visualization** with extensive practice in different projects based on real life scenarios
 
-• Highly motivated, fast learner & efficient communicator, resilient character with attention to detail & problem-solving skills  
+• Highly motivated, **Fast Learner** & **Efficient Communicator**, **Resilient** character with attention to **Detail** & **Problem-Solving** skills  
 
 ### Skills & EXPERTISE 
 
