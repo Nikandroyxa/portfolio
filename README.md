@@ -1,4 +1,7 @@
 # Data Science Portfolio
+
+## [**📄View My CV**](https://github.com/Nikandroyxa/Portfolio/blob/main/001_CV%20%26%20Cover%20Letter/Babis%20Nikandrou%20CV%20DS.pdf)
+
 Welcome to my portfolio !!! 
 
 This repository showcases my Data Science projects utilizing **Python**, **SQL** & comprehensive **Data Workflows** including **Data Preparation**, **Data Cleansing**, **Data Warehousing**, **Data Visualization**, **EDA** & **ETL** processes. My
