@@ -27,7 +27,7 @@ We used a dataset from [Kaggle](https://www.kaggle.com/datasets/sinderpreet/anal
    - Aggregated Average CPC, CPL & CAC by Campaign category
    - Evaluated campaign activity across weekdays
 
-4. **Dashboard Development in Tableau**  
+4. **Dashboard Development in** [**Tableau**](https://public.tableau.com/views/MarketingCampaignPerformanceDashboard_17511978417850/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
    Exported aggregated results and visualized them in an interactive Tableau dashboard:
    - Weekly trends of marketing Spend vs Revenue
    - Grouped bar chart comparing CPC / CPL / CAC by Category
@@ -50,9 +50,6 @@ We used a dataset from [Kaggle](https://www.kaggle.com/datasets/sinderpreet/anal
 
 4. **ROMI by Category**  
    Compares performance across major marketing channels.
-
-🧭 **Interactive Dashboard**:  
-👉 [View on Tableau Public](https://public.tableau.com/views/MarketingCampaignPerformanceDashboard_17511978417850/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ### **Technologies Used**
