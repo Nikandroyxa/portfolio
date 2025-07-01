@@ -3,7 +3,7 @@
 ### **Project Overview**
 
 This project focused on analyzing and visualizing the performance of marketing campaigns using SQL and Tableau. The goal was to calculate key marketing KPIs and generate actionable insights to optimize advertising strategy.
-We used a dataset from [Kaggle](https://www.kaggle.com/datasets/sinderpreet/analyze-the-marketing-spending/data) containing 308 marketing campaign records, including details like impressions, clicks, leads, orders, spend, and revenue across various digital channels. This self-driven project allowed me to demonstrate my SQL, analytical, and data visualization skills by simulating a real-world marketing analytics scenario—directly
+We used a dataset from [Kaggle](https://www.kaggle.com/datasets/sinderpreet/analyze-the-marketing-spending/data) containing 308 marketing campaign records, including details like impressions, clicks, leads, orders, spend, and revenue across various digital channels. This self-driven project allowed me to demonstrate my SQL, analytical, and data visualization skills by simulating a real-world marketing analytics scenario directly
 
 
 ### **Process**
